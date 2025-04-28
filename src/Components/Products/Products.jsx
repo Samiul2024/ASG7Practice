@@ -13,7 +13,7 @@ const Products = ({ handleAddToFav }) => {
 
     return (
 
-        <div className=' mb-4'>
+        <div className='w-2/3 mb-4'>
             <div className="max-w-7xl  mx-auto  px-4 ">
                 <div className='mb-8 my-32 flex  flex-col gap-5'>
                     <h1 className="text-3xl font-medium text-start ">Active Auctions</h1>
