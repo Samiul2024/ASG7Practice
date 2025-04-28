@@ -4,6 +4,7 @@ import Banner from '../Banner/Banner';
 import Footer from '../Footer/Footer';
 import Products from '../Products/Products';
 import Cart from '../Cart/Cart';
+import { toast } from 'react-toastify';
 
 const Home = () => {
     const [price, setPrice] = useState(0)
@@ -13,6 +14,22 @@ const Home = () => {
     const handleAddToFav = (product, currentBidPrice) => {
         setPrice(price + currentBidPrice);
         setSelectedProducts([...selectedProducts, product]);
+        toast.success(`
+            ${product.title} Added to favourites !
+            `,{
+                position:"top-right",
+                autoClose:5000,
+                draggable:true,
+
+            })
+
+    }
+
+    const handleDelete = (id, productPrice) => {
+        // console.log(typeof productPrice);
+        setPrice(price - productPrice);
+        const remainingProducts = selectedProducts.filter(p => p.id !== id);
+        setSelectedProducts(remainingProducts);
     }
     // console.log(selectedProducts);
     return (
@@ -24,7 +41,7 @@ const Home = () => {
             <div className='flex justify-center h-auto  pb-32 bg-[#ebf0f5] text-black mx-auto'>
                 <div className='flex gap-6'>
                     <Products handleAddToFav={handleAddToFav}></Products>
-                    <Cart selectedProducts={selectedProducts} price={price}></Cart>
+                    <Cart selectedProducts={selectedProducts} price={price} handleDelete={handleDelete}></Cart>
                 </div>
                 <div>
                 </div>
