@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Vintage Rolex Submariner",
+    "description": "Classic 1960s Rolex Submariner in excellent condition with original box.",
+    "currentBidPrice": 12500,
+    "timeLeft": "2 days 5 hours",
+    "bidsCount": 14,
+    "image": "https://i.ibb.co.com/KxNm0kp9/Bid1-min.png"
+  },
+  {
+    "id": 2,
+    "title": "Signed Picasso Sketch",
+    "description": "Original pencil sketch by Pablo Picasso, signed and dated 1957.",
+    "currentBidPrice": 8750,
+    "timeLeft": "1 day 3 hours",
+    "bidsCount": 9,
+    "image": "https://i.ibb.co.com/0RMhncLg/Bid2-min.png"
+  },
+  {
+    "id": 3,
+    "title": "1957 Chevrolet Bel Air",
+    "description": "Fully restored classic car with original engine and new interior.",
+    "currentBidPrice": 65000,
+    "timeLeft": "5 days 2 hours",
+    "bidsCount": 22,
+    "image": "https://i.ibb.co.com/JF3bV5GB/Bid3-min.png"
+  },
+  {
+    "id": 4,
+    "title": "Rare First Edition Harry Potter",
+    "description": "Harry Potter and the Philosopher's Stone first edition, first printing.",
+    "currentBidPrice": 3200,
+    "timeLeft": "12 hours",
+    "bidsCount": 17,
+    "image": "https://i.ibb.co.com/JWMc3ty1/Bid4-min.png"
+  },
+  {
+    "id": 5,
+    "title": "Antique Persian Rug",
+    "description": "19th century hand-woven Persian rug in excellent condition.",
+    "currentBidPrice": 4500,
+    "timeLeft": "3 days 8 hours",
+    "bidsCount": 11,
+    "image": "https://i.ibb.co.com/v6fFDh37/Bid5-min.png"
+  },
+  {
+    "id": 6,
+    "title": "Mickey Mantle Rookie Card",
+    "description": "1951 Bowman Mickey Mantle rookie baseball card, PSA graded 5.",
+    "currentBidPrice": 125000,
+    "timeLeft": "1 day 1 hour",
+    "bidsCount": 8,
+    "image": "https://i.ibb.co.com/Qqr69bd/Bid6-min.png"
+  },
+  {
+    "id": 7,
+    "title": "Limited Edition Rolex Daytona",
+    "description": "2016 Rolex Daytona 116500LN with ceramic bezel, complete set.",
+    "currentBidPrice": 28500,
+    "timeLeft": "4 days 6 hours",
+    "bidsCount": 19,
+    "image": "https://i.ibb.co.com/MyWPmzwh/Bid7-min.png"
+  },
+  {
+    "id": 8,
+    "title": "Signed Beatles Album",
+    "description": "Original 1967 Sgt. Pepper's Lonely Hearts Club Band signed by all four members.",
+    "currentBidPrice": 17500,
+    "timeLeft": "2 days 10 hours",
+    "bidsCount": 13,
+    "image": "https://i.ibb.co.com/KvCmJ9T/copernico-p-k-ICQCOM4s-unsplash.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Tiffany Diamond Necklace",
+    "description": "Vintage Tiffany & Co. diamond necklace with 3.5 carat center stone.",
+    "currentBidPrice": 18500,
+    "timeLeft": "1 day 22 hours",
+    "bidsCount": 7,
+    "image": "https://i.ibb.co.com/S4G1kh1V/olena-bohovyk-d-IMJWLx1-Yb-E-unsplash.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Hermes Birkin 35 Bag",
+    "description": "Rare Hermes Birkin 35 in black crocodile with gold hardware.",
+    "currentBidPrice": 22500,
+    "timeLeft": "3 days 4 hours",
+    "bidsCount": 15,
+    "image": "https://i.ibb.co.com/BKyXwxSC/charlesdeluvio-Lks7vei-e-Ag-unsplash.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Original Star Wars Poster",
+    "description": "1977 original Star Wars movie poster in mint condition.",
+    "currentBidPrice": 3500,
+    "timeLeft": "6 hours",
+    "bidsCount": 21,
+    "image": "https://i.ibb.co.com/zV1qJHnf/lycs-architecture-U2-BI3-GMn-SSE-unsplash.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Antique Grandfather Clock",
+    "description": "Early 19th century English grandfather clock in working condition.",
+    "currentBidPrice": 8500,
+    "timeLeft": "4 days",
+    "bidsCount": 6,
+    "image": "https://i.ibb.co.com/9PDCwzz/nastuh-abootalebi-e-HD8-Y1-Znfpk-unsplash.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Signed Michael Jordan Jersey",
+    "description": "Game-worn and signed Chicago Bulls jersey from 1996 season.",
+    "currentBidPrice": 12500,
+    "timeLeft": "1 day 5 hours",
+    "bidsCount": 18,
+    "image": "https://i.ibb.co.com/ZzRn8fzJ/redd-francisco-5-U-28ojjgms-unsplash.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Rare Patek Philippe Watch",
+    "description": "Patek Philippe Nautilus 5711 in stainless steel, unworn.",
+    "currentBidPrice": 95000,
+    "timeLeft": "2 days 8 hours",
+    "bidsCount": 12,
+    "image": "https://i.ibb.co.com/TxT2MMXf/alesia-kazantceva-VWc-Plb-Hgl-Yc-unsplash.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Vintage Leica Camera",
+    "description": "Leica M3 with 50mm Summicron lens, excellent working condition.",
+    "currentBidPrice": 3200,
+    "timeLeft": "1 day 12 hours",
+    "bidsCount": 9,
+    "image": "https://i.ibb.co.com/n8ntSqr2/christin-hume-h-Buw-VLc-YTn-A-unsplash.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Signed Babe Ruth Baseball",
+    "description": "Official AL baseball signed by Babe Ruth in 1934, PSA authenticated.",
+    "currentBidPrice": 18500,
+    "timeLeft": "3 days 1 hour",
+    "bidsCount": 7,
+    "image": "https://i.ibb.co.com/wNz4j2Yq/kari-shea-1-SAnr-Ixw5-OY-unsplash.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Louis Vuitton Steamer Trunk",
+    "description": "Early 20th century LV steamer trunk with original hardware.",
+    "currentBidPrice": 12500,
+    "timeLeft": "5 days 3 hours",
+    "bidsCount": 5,
+    "image": "https://i.ibb.co.com/d4ZCVtRm/alexandru-acea-Ghw-Cef9-VRr4-unsplash.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Rare Whisky Collection",
+    "description": "Collection of 12 rare Scotch whiskies from 1950s-1970s.",
+    "currentBidPrice": 22500,
+    "timeLeft": "2 days 7 hours",
+    "bidsCount": 14,
+    "image": "https://i.ibb.co.com/gZchKHDq/c-d-x-PDX-a-82obo-unsplash.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Cartier Tank Watch",
+    "description": "Vintage Cartier Tank from 1980s with original papers.",
+    "currentBidPrice": 6500,
+    "timeLeft": "1 day 18 hours",
+    "bidsCount": 11,
+    "image": "https://i.ibb.co.com/HLFm1qSS/kevin-ku-w7-Zyu-GYNp-RQ-unsplash.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Original Banksy Print",
+    "description": "Signed and numbered Banksy 'Girl with Balloon' screen print.",
+    "currentBidPrice": 18500,
+    "timeLeft": "4 days 5 hours",
+    "bidsCount": 16,
+    "image": "https://i.ibb.co.com/DDWr5ZhT/andrew-neel-cckf4-Ts-HAuw-unsplash.jpg"
+  }
+]
